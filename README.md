@@ -28,7 +28,7 @@ Es una aplicación web que permite ingresar nombres y seleccionar uno al azar.
 - CSS
 - JavaScript
 
-
+---
  👩‍💻 Autor/a
 
 **Micaela Capatto**  
