@@ -33,5 +33,3 @@ Es una aplicación web que permite ingresar nombres y seleccionar uno al azar.
 
 **Micaela Capatto**  
 🔗 [GitHub](https://github.com/MicaelaCS)  
-
-Gracias a [Alura Latam](https://www.aluracursos.com/) y el programa **Oracle Next Education** por impulsar el aprendizaje y el desarrollo de nuevas habilidades.
